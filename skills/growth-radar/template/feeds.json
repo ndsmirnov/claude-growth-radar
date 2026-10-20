@@ -1,0 +1,19 @@
+[
+ {"name": "Hacker News (лучшее)", "url": "https://hnrss.org/best?count=30", "lang": "en", "take": 15},
+ {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "lang": "en", "take": 10},
+ {"name": "Latent Space", "url": "https://www.latent.space/feed", "lang": "en", "take": 4},
+ {"name": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/feed", "lang": "en", "take": 4},
+ {"name": "The Pragmatic Engineer", "url": "https://newsletter.pragmaticengineer.com/feed", "lang": "en", "take": 4},
+ {"name": "ByteByteGo", "url": "https://blog.bytebytego.com/feed", "lang": "en", "take": 4},
+ {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "lang": "en", "take": 6},
+ {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "lang": "en", "take": 5},
+ {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "lang": "en", "take": 4},
+ {"name": "One Useful Thing (Ethan Mollick)", "url": "https://www.oneusefulthing.org/feed", "lang": "en", "take": 3},
+ {"name": "SVPG (Marty Cagan)", "url": "https://www.svpg.com/feed/", "lang": "en", "take": 3},
+ {"name": "Product Talk (Teresa Torres)", "url": "https://www.producttalk.org/feed/", "lang": "en", "take": 3},
+ {"name": "Ben's Bites", "url": "https://www.bensbites.com/feed", "lang": "en", "take": 3},
+ {"name": "Хабр: AI", "url": "https://habr.com/ru/rss/hubs/artificial_intelligence/articles/?fl=ru", "lang": "ru", "take": 12},
+ {"name": "Хабр: управление продуктом", "url": "https://habr.com/ru/rss/hubs/productpm/articles/?fl=ru", "lang": "ru", "take": 8},
+ {"name": "Хабр: веб-разработка", "url": "https://habr.com/ru/rss/hubs/webdev/articles/?fl=ru", "lang": "ru", "take": 6},
+ {"name": "vc.ru", "url": "https://vc.ru/rss/all", "lang": "ru", "take": 8}
+]
